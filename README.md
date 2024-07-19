@@ -119,14 +119,14 @@
 <!--<p align="center">
 <img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
 
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats 
 <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=trinib&theme=merko&border=599200">
 
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats 
 <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats 
 <img src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko&border_color=599200">
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
@@ -464,11 +464,11 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--<i>Last refresh</i> : <b>Friday, July 19th, 2024, 3:54:09 AM</b>-->
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
+<!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img 
 <br><p align="center">
 <a href="https://github.com/trinib/trinib/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=trinib/trinib" />
-</a>
+</a>-->
 
 <!-- 
 
