@@ -1,4 +1,12 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<h4 align="left">
+</h4>
+ 
+╔═&nbsp;&nbsp;👀 𝔸&nbsp;ℕ&nbsp;𝕌&nbsp;𝕁&nbsp;&nbsp;𝕊&nbsp;𝕀&nbsp;ℕ&nbsp;𝔾&nbsp;ℍ 👀
+<h4>
+<h4 align="left">  
+<h4>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
@@ -104,11 +112,11 @@
 <!--<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a> -->
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/ironmaniiith/Github-profile-name-writer -->
-<p align="center">
+<!--<p align="center">
 <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
@@ -373,7 +381,7 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
       
 #
 <!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
-<h2 align="center">
+<!--<h2 align="center">
 Join the Word Cloud Board :cloud: :pencil2:
 
 ### :thought_balloon: <a href="https://github.com/trinib/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E"><b>Add your name</b></a> to see the word cloud update in real time :rocket:
@@ -414,7 +422,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
-<table>
+<!--<table>
   <tr>
    <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -431,7 +439,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
-<h4 align="left">
+<!--<h4 align="left">
 </h4>
  
 ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
