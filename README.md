@@ -1,6 +1,6 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-<h4 align="left">
-</h4>
+<h4 align="center">
+</h4">
  
 ╔═&nbsp;&nbsp;👀 𝔸&nbsp;ℕ&nbsp;𝕌&nbsp;𝕁&nbsp;&nbsp;𝕊&nbsp;𝕀&nbsp;ℕ&nbsp;𝔾&nbsp;ℍ 👀
 <h4>
